@@ -52,7 +52,7 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 Did you install Python 2 or 3? Why?  
 
 Python 3 
----
+*****
 I have a Mac. All HackerRank Python pre-work is configured for Python 3 only.
 
 ### Q2. Which Python Version Installed   
