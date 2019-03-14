@@ -20,8 +20,14 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+* show current working directory path : `pwd`
+* creating a directory: `mkdir [insert directory name]`
+* deleting a directory: `rmdir`
+* creating a file using `touch` command: `touch "[insert file name]"`
+* deleting a file: `rm [insert file name]`
+* renaming a file: `mv [old file name] [new file name]`
+* listing hidden files: `ls -a`
+* copying a file from one directory to another: `cp [original file to be copied] [destination where new copy to be saved]`
 ---
 
 ### Q2.  List Files in Unix   
@@ -35,15 +41,24 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+`ls` lists all files in the directory
+`ls -a` displays all files, including hidden files
+`ls -l` displays files with long formatting
+`ls -lh` displays files with human readable format
+`ls -lah` displays all files, including hidden files, in human readable format
+`ls -t` displays files sorted by last modified date & time, with newest first
+`ls -Glp` displays, in color, long formatting, all files with a '/' at the end of directories
 ---
 
 ### Q3.  More List Files in Unix  
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > `ls -d` displays only directories
+`ls -R` displays subdirectories as well
+`ls -t` displays files sorted by last modified date & time, with newest first
+`ls -1` displays each entry on a line
+`ls -m` displays entries as comma-separated list
 
 ---
 
