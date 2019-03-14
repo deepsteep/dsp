@@ -41,13 +41,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`   
 
-`ls` lists all files in the directory
-`ls -a` displays all files, including hidden files
-`ls -l` displays files with long formatting
-`ls -lh` displays files with human readable format
-`ls -lah` displays all files, including hidden files, in human readable format
-`ls -t` displays files sorted by last modified date & time, with newest first
-`ls -Glp` displays, in color, long formatting, all files with a '/' at the end of directories
+`ls` lists all files in the directory   
+`ls -a` displays all files, including hidden files.  
+`ls -l` displays files with long formatting.  
+`ls -lh` displays files with human readable format.  
+`ls -lah` displays all files, including hidden files, in human readable format.  
+`ls -t` displays files sorted by last modified date & time, with newest first.  
+`ls -Glp` displays, in color, long formatting, all files with a '/' at the end of directories.  
 
 ### Q3.  More List Files in Unix  
 
