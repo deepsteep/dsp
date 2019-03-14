@@ -39,8 +39,8 @@ What do the following commands do:
 `ls -lh`  
 `ls -lah`  
 `ls -t`  
-`ls -Glp`
----
+`ls -Glp`   
+
 `ls` lists all files in the directory
 `ls -a` displays all files, including hidden files
 `ls -l` displays files with long formatting
