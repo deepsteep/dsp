@@ -51,13 +51,13 @@ What do the following commands do:
 
 ### Q3.  More List Files in Unix  
 
-Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
+Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:   
 
-> > `ls -d` displays only directories
-`ls -R` displays subdirectories as well
-`ls -t` displays files sorted by last modified date & time, with newest first
-`ls -1` displays each entry on a line
-`ls -m` displays entries as comma-separated list
+`ls -d` displays only directories.  
+`ls -R` displays subdirectories as well.  
+`ls -t` displays files sorted by last modified date & time, with newest first.  
+`ls -1` displays each entry on a line.  
+`ls -m` displays entries as comma-separated list.  
 
 ---
 
