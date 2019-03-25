@@ -65,7 +65,11 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+`xargs` takes data from standard input and executes the command.
 
+xargs find -name   
+"*.txt"
+
+This finds file names in the current directory that contains "*.txt"
  
 
